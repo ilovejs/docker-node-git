@@ -11,6 +11,10 @@ Let's use alphine (~5mb) to add git via APK to enable CICD
 
 ### Reference
 
+- [node alphine tags](https://hub.docker.com/_/node/)
+
+- docker files
+
 https://github.com/nodejs/docker-node
 
 https://github.com/agrakhov/cicd-node/blob/master/10/alpine.Dockerfile
